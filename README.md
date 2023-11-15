@@ -17,6 +17,7 @@ MATLAB (or Octave, as an open source alternative to MATLAB)
 Do not forget to hold all files in the working directory.
 
 INSTALLING
+
 A step by step series of examples that tell you how to get a development environment running:
 1. Clone the repo: git clone https://github.com/yourusername/HEART.git
 2. Navigate to the cloned directory: cd HEART
