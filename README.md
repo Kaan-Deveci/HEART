@@ -41,7 +41,9 @@ CONTRIBUTING
 If you would like to contribute to the HEART project or have any questions, feel free to reach out. You can contribute via the GitHub repository by creating pull requests or opening issues for any bugs or enhancements you have identified. For direct communication or specific inquiries, please do not hesitate to send an email to devecik@itu.edu.tr.
 
 AUTHORS
+
 Kaan Deveci
 
 LICENSE
+
 This project is licensed under the MIT License - see the license.txt file for details.
