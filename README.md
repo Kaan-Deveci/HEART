@@ -46,4 +46,4 @@ Kaan Deveci
 
 LICENSE
 
-This project is licensed under the MIT License - see the license.txt file for details.
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
