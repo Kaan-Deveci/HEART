@@ -57,5 +57,13 @@ end
 HV_net = hyperVolMem-hyperVolNonMem;
 
 %% Step 7: Rank the alternatives based on HV_net.
+% Representation of energy resources:
+% 1 - Biomass
+% 2 - Geothermal
+% 3 - Hydroelectricity
+% 4 - Onshore wind
+% 5 - Solar PV
+% 6 - Natural gas
+% 7 - Coal
 [sd,r]=sort(HV_net,'descend');
 r
